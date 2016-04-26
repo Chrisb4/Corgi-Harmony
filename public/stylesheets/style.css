@@ -6,3 +6,20 @@ body {
 a {
   color: #00B7FF;
 }
+
+.buttons {
+  width: 130px;
+  margin: auto;
+}
+
+#pic {
+  margin: 0 auto;
+  height: 400px;
+  width: 400px;
+  border: 5px solid black;
+  margin-top: 100px;
+}
+
+h1 {
+  text-align: center;
+}
